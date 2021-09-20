@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sreeragiyer
 - 👀 I’m interested in machine learning/deep learning.
 - 🌱 I’m currently pursuing Master's in Computer Science at UMass Amherst. 
-- 💞️ I’m looking to collaborate on ...anything, really :)
+- 💞️ I’m looking to collaborate on ...anything open-source :)
 - 📫 How to reach me ...[LinkedIn](https://www.linkedin.com/in/sreeragiyer/)
 
 <!---
